@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title>Map Animation</title>
+    <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+    <script src="http://maps.google.com/maps/api/js?key=AIzaSyARxs_0QWBQzZ-7tnFIkcz6Tzh5Fr1I0xg"></script>
+    <!-- <script src="https://api.mapbox.com/mapbox-gl-js/v1.11.0/mapbox-gl.js"></script>
+    <link href="https://api.mapbox.com/mapbox-gl-js/v1.11.0/mapbox-gl.css" rel="stylesheet" /> -->
+    <link href="./styles.css" rel="stylesheet" />
+</head>
+
+<body>
+    <div id="map"></div>
+    <div class="map-overlay top">
+        <script src="./mapanimation.js"></script>
+        <div class= headline>
+            Real time bus location between MIT and Harvard
+        </div>
+        <div>
+            <div class="info-container wow fadeInDown bordered">
+                <div class="info-section info-text schedule-container">
+
+                        <h2>1 bus Schedule</h2>
+                                <p>1 bus route operates on everyday.<br> Regular schedule hours: 12:05 AM - 11:52 PM</p>
+
+
+                    <table class="schedule-table" aria-label="1 bus Schedule">
+                        <thead>
+                        <tr>
+                            <th>Day</th>
+                            <th>Operating Hours</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Sunday</td>
+                                    <td>12:03 AM - 11:42 PM</td>
+                            </tr>
+                            <tr>
+                                <td>Monday</td>
+                                    <td>12:01 AM - 11:52 PM</td>
+                            </tr>
+                            <tr>
+                                <td>Tuesday</td>
+                                    <td>12:05 AM - 11:52 PM</td>
+                            </tr>
+                            <tr>
+                                <td>Wednesday</td>
+                                    <td>12:05 AM - 11:52 PM</td>
+                            </tr>
+                            <tr>
+                                <td>Thursday</td>
+                                    <td>12:05 AM - 11:52 PM</td>
+                            </tr>
+                            <tr>
+                                <td>Friday</td>
+                                    <td>12:05 AM - 11:52 PM</td>
+                            </tr>
+                            <tr>
+                                <td>Saturday</td>
+                                    <td>12:05 AM - 11:49 PM</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>
