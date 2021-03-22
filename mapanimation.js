@@ -5,7 +5,7 @@ var markers = [];
 // load map
 function init(){
 	var myOptions = {
-		zoom      : 13,
+		zoom      : 13.5,
 		center    : { lat:42.353350,lng:-71.091525},
 		mapTypeId : google.maps.MapTypeId.ROADMAP
 	};
