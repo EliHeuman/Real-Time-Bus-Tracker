@@ -24,7 +24,9 @@ If you are having issues, please let me know, and <a href="mailto:biz.elih@gmail
 ___
 ## Roadmap of future improvements
 - Add the bus stop locations and add more bus routes that go from Harvard to MIT.
-__
+- Add more information about each bus, for example, is it full or empty.
+- Add an option to create a custom location from stop A to B or bus route.
+___
 #### License information
 
 <a href="https://github.com/EliHeuman/Real-Time-Bus/blob/master/License.txt">The MIT License (MIT)</a>
@@ -34,6 +36,6 @@ Repository Name  | Link
 -------------|--------------------
 GitHub Portfolio Project | <a href="https://github.com/EliHeuman/eliheuman.github.io">GitHub Portfolio repository</a>
 PacMen Factory Exercise | <a href="https://github.com/EliHeuman/PacMen-Factory-Exercise">PacMen repository</a>
-Bus Tracker Exercise| <a href="https://github.com/EliHeuman/Real-Time-Bus">Bus Tracker repository</a>
+Eye Exercise| <a href="https://github.com/EliHeuman/Eye">Eye repository</a>
 
 Eli Heuman's website:<a href=https://eliheuman.github.io> eliheuman.github.io</a>
