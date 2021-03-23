@@ -10,11 +10,11 @@ The Real Time Bus Tracker Exercise concludes the ninth week of the MIT xPRO Full
 Real Time Bus Tracker enables you to see Boston's bus route number one locations in real-time. The bus route pass by MIT and Harvard universities. The tracker uses MBTA API to retrieve the locations every 20 seconds. Blue buses are driving North to South, and red buses are going from South to North. This project uses mainly HTML.
 ___
 ## How to Run
-After cloning this project, you will see it consists of three main files.<br>
-index.html, styles.css, eyes.js.<br>
-The index.html file sets the DOM with two eye divs.
-The eyes.js creates the eyes in the DOM and uses the mousemove event to move the balls and follow the cursor.<br>
-The styles.css uses the class eye and eyes to create the eye color and shape.
+After cloning this project, you will see it consists of three main files and two images.<br>
+index.html, styles.css, mapanimation.js., Images/Blue.png, Images/Red.png<br>
+The index.html file imports Goole Maps API sets the DOM with a map.<br>
+The mapanimation.js uses MBTA API to get JSON data for the Boston route and adds markers with the red or blue png file depending on the direction of the bus.<br>
+The styles.css uses the class .headline and info-container.wow.fadeInDown.bordered to create the information box styling.
 ___
 ## Contribute
 Source Code: https://github.com/EliHeuman/Real-Time-Bus/blob/master/index.html
