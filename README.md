@@ -4,10 +4,10 @@ Real Time Bus Tracker Exercise:<a href="https://github.com/EliHeuman/Real-Time-B
 Real Time Bus Tracker Exercise:<a href="http://eliheuman.github.io/Real-Time-Bus/"> Open</a>
 ___
 
-The Eye Exercise concludes the eighth week of the MIT xPRO Full Stack Development with MERN course.
+The Real Time Bus Tracker Exercise concludes the ninth week of the MIT xPRO Full Stack Development with MERN course.
 
 ## Description of the Project 
-Eye enables you to move your cursor across the screen and watch as the eyes follow. This game uses mainly CSS.
+Real Time Bus Tracker enables you to see Boston's bus route number one locations in real-time. The bus route pass by MIT and Harvard universities. The tracker uses MBTA API to retrieve the locations every 20 seconds. Blue buses are driving North to South, and red buses are going from South to North. This project uses mainly HTML.
 ___
 ## How to Run
 After cloning this project, you will see it consists of three main files.<br>
