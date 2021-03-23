@@ -1,7 +1,7 @@
 # Real Time Bus Tracker Exercise
 M.I.T xPRO Real Time Bus Tracker Exercise<br>
-Real Time Bus Tracker Exercise:<a href="https://github.com/EliHeuman/Real-Time-Bus"> Repository</a><br>
-Real Time Bus Tracker Exercise:<a href="http://eliheuman.github.io/Real-Time-Bus/"> Open</a>
+Real Time Bus Tracker Exercise:<a href="https://github.com/EliHeuman/Real-Time-Bus-Tracker"> Repository</a><br>
+Real Time Bus Tracker Exercise:<a href="http://eliheuman.github.io/Real-Time-Bus-Tracker/"> Open</a>
 ___
 
 The Real Time Bus Tracker Exercise concludes the ninth week of the MIT xPRO Full Stack Development with MERN course.
@@ -17,7 +17,7 @@ The mapanimation.js uses MBTA API to get JSON data for the Boston route and adds
 The styles.css uses the class .headline and info-container.wow.fadeInDown.bordered to create the information box styling.
 ___
 ## Contribute
-Source Code: https://github.com/EliHeuman/Real-Time-Bus/blob/master/index.html
+Source Code: https://github.com/EliHeuman/Real-Time-Bus-Tracker/blob/master/index.html
 
 ##### Support
 If you are having issues, please let me know, and <a href="mailto:biz.elih@gmail.com"> email me.</a>
@@ -29,7 +29,7 @@ ___
 ___
 #### License information
 
-<a href="https://github.com/EliHeuman/Real-Time-Bus/blob/master/License.txt">The MIT License (MIT)</a>
+<a href="https://github.com/EliHeuman/Real-Time-Bus-Tracker/blob/master/License.txt">The MIT License (MIT)</a>
 
 ###### list of links to the different repositories showcased:
 Repository Name  | Link
