@@ -23,8 +23,7 @@ Source Code: https://github.com/EliHeuman/Real-Time-Bus/blob/master/index.html
 If you are having issues, please let me know, and <a href="mailto:biz.elih@gmail.com"> email me.</a>
 ___
 ## Roadmap of future improvements
-- Create a click button to start/stop option in the DOM.
-- Add an option to add more facial features and expressions.
+- Add the bus stop locations and add more bus routes that go from Harvard to MIT.
 __
 #### License information
 
