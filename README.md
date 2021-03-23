@@ -1,7 +1,7 @@
 # Real Time Bus Tracker Exercise
-M.I.T xPRO Eye Exercise<br>
-Eye Exercise:<a href="https://github.com/EliHeuman/Eye"> Repository</a><br>
-Eye Factory Exercise:<a href="http://eliheuman.github.io/Eye/"> Open</a>
+M.I.T xPRO Real Time Bus Tracker Exercise<br>
+Real Time Bus Tracker Exercise:<a href="https://github.com/EliHeuman/Real-Time-Bus"> Repository</a><br>
+Real Time Bus Tracker Exercise:<a href="http://eliheuman.github.io/Real-Time-Bus/"> Open</a>
 ___
 
 The Eye Exercise concludes the eighth week of the MIT xPRO Full Stack Development with MERN course.
@@ -17,7 +17,7 @@ The eyes.js creates the eyes in the DOM and uses the mousemove event to move the
 The styles.css uses the class eye and eyes to create the eye color and shape.
 ___
 ## Contribute
-Source Code: https://github.com/EliHeuman/Eye/blob/master/index.html
+Source Code: https://github.com/EliHeuman/Real-Time-Bus/blob/master/index.html
 
 ##### Support
 If you are having issues, please let me know, and <a href="mailto:biz.elih@gmail.com"> email me.</a>
@@ -28,7 +28,7 @@ ___
 __
 #### License information
 
-<a href="https://github.com/EliHeuman/Eye/blob/master/License.txt">The MIT License (MIT)</a>
+<a href="https://github.com/EliHeuman/Real-Time-Bus/blob/master/License.txt">The MIT License (MIT)</a>
 
 ###### list of links to the different repositories showcased:
 Repository Name  | Link
