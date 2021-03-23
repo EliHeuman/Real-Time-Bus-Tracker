@@ -27,6 +27,7 @@ ___
 - Add more information about each bus, for example, is it full or empty.
 - Add an option to create a custom location from stop A to B or bus route.
 - Change google maps to Mapbox API.
+- Change Var's to Let and Const.
 ___
 #### License information
 
