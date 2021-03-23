@@ -7,7 +7,7 @@ ___
 The Real Time Bus Tracker Exercise concludes the ninth week of the MIT xPRO Full Stack Development with MERN course.
 
 ## Description of the Project 
-Real Time Bus Tracker enables you to see Boston's bus route number one locations in real-time. The bus route pass by MIT and Harvard universities. The tracker uses MBTA API to retrieve the locations every 20 seconds. Blue buses are driving North to South, and red buses are going from South to North. This project uses mainly HTML.
+Real Time Bus Tracker enables you to see Boston's bus route number one locations in real-time. The bus route pass by MIT and Harvard universities. The tracker uses MBTA API to retrieve the locations every 15 seconds. Blue buses are driving North to South, and red buses are going from South to North. This project uses mainly HTML.
 ___
 ## How to Run
 After cloning this project, you will see it consists of three main files and two images.<br>
@@ -26,6 +26,7 @@ ___
 - Add the bus stop locations and add more bus routes that go from Harvard to MIT.
 - Add more information about each bus, for example, is it full or empty.
 - Add an option to create a custom location from stop A to B or bus route.
+- Change google maps to Mapbox API.
 ___
 #### License information
 

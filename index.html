@@ -5,19 +5,22 @@
     <meta charset="utf-8" />
     <title>Map Animation</title>
     <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+    <!-- Import google maps -->
     <script src="https://maps.google.com/maps/api/js?key=AIzaSyARxs_0QWBQzZ-7tnFIkcz6Tzh5Fr1I0xg"></script>
-    <!-- <script src="https://api.mapbox.com/mapbox-gl-js/v1.11.0/mapbox-gl.js"></script>
-    <link href="https://api.mapbox.com/mapbox-gl-js/v1.11.0/mapbox-gl.css" rel="stylesheet" /> -->
     <link href="./styles.css" rel="stylesheet" />
 </head>
 
 <body>
+    <!-- Container -->
     <div id="map"></div>
+    <!-- A div that appears in the DOM over the map. -->
     <div class="map-overlay top">
         <script src="./mapanimation.js"></script>
+        <!-- Adding headline div to the DOM -->
         <div class= headline>
             Real time bus location between MIT and Harvard
         </div>
+        <!-- Adding bus time schedule to the DOM -->
         <div>
             <div class="info-container wow fadeInDown bordered">
                 <div class="info-section info-text schedule-container">

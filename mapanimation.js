@@ -41,7 +41,7 @@ async function getBusLocations(){
 	var json = await response.json();
 	return json.data;
 }
-
+//Adds bus markers to the map.
 function addMarker(bus){
 	var icon = getIcon(bus);
 	var marker = new google.maps.Marker({
@@ -75,12 +75,12 @@ function moveMarker(marker,bus) {
     	lng: bus.attributes.longitude
 	});
 }
-
+//Checks for existing bus markers and moves them.
 function getMarker(id){
 	var marker = markers.find(function(item){
 		return item.id === id;
 	});
 	return marker;
 }
-
+//initates init function.
 window.onload = init;
